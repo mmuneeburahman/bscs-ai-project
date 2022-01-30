@@ -1,5 +1,5 @@
 # bscs-ai-project
-It contains the <h2>BSCS AI Project</h2>
+<h2>BSCS AI Project</h2>
 
 <i>Credit:</i><br>
 This repository uses these two repository to run the code on Google Colab.
